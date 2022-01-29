@@ -1,9 +1,7 @@
-# SG
-
-Program evaluation and review technique (PERT)
-Just run SG_106.exe
+Program evaluation and review technique (PERT).
+Just run SG.exe
 
 Программа сетевого планирования выполнения работ, или сетевые графики.
-Запустить SG_106.exe
+Запустить SG.exe
 Для создания графа сетевого графика, удерживая CTRL сдвинуть начальную окружность,
 таким образом образуется новый узел. Параметры сетевого графика редактируются в нижней таблице.
